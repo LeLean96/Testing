@@ -1,5 +1,6 @@
 function sayHello()
 {
+ str= "hello remotly";
   
-  return "hello locally";
+  return str;
 }
