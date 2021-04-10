@@ -1,6 +1,4 @@
 function sayHello()
-{
- str= "hello remotly";
-  
-  return "is there conflict???";
+{  
+  return "hello remotly from branch12";
 }
