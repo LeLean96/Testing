@@ -1,4 +1,5 @@
 function sayHello()
 {
-	return "hello every body"
+	let str="say hello";
+	return str;
 }
