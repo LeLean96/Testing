@@ -1,5 +1,4 @@
 function sayHello()
 {
-	let str="say hello";
-	return str;
+	return "say hello for branch1";
 }
