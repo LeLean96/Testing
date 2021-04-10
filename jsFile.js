@@ -1,6 +1,6 @@
 function sayHello()
 {
 
-	return "new coflict!!!";
+	return "I do not know what happened";
 }
 
