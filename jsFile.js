@@ -1,6 +1,6 @@
 function sayHello()
 {
 
-	return "new conf;ict!!!";
+	return "new coflict!!!";
 }
 
