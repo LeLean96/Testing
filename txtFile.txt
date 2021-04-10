@@ -1,2 +1,2 @@
-now I am typing my first row in my first repo in branch1, new branch born
-and now I am at branch11
+I deleted everything now locally!!
+I will amend commit now!!
