@@ -2,7 +2,5 @@
 <<<<<<< HEAD
 added 
 then modified after staged before commit
-----------------------------------------
-first commit 
- ----------------------
-second commit 
+file after amend
+
