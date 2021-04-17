@@ -4,3 +4,5 @@ added
 then modified after staged before commit
 ----------------------------------------
 first commit 
+ ----------------------
+second commit 
